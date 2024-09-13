@@ -6,7 +6,8 @@ A company's website has many user profiles. These profiles can either be active 
 Implement the profileActivation function to manage the activation status of user profiles on a company's website. This function will toggle a profile's active status and handle reasons for inactivity.
 
 ### Function
-```
+```testing
+
 function profileActivation(profile, reason)
 ```
 #### Parameters
